@@ -29,8 +29,9 @@ This project aimed to answer the following key business questions:
 3. Inventory Management: Certain product categories had high turnover rates, while others remained stagnant, indicating a need for better inventory optimization to avoid stockouts and overstock situations.
 
 # How to use
-1. git clone https://github.com/ShubhamKendal/Music_Store_Data_Analysis.git
+1. git clone https://github.com/ShubhamKendal/Music-Store-Data-Analysis-Project.git
 
 # Contact
 Email - kendalshubham@gmail.com
+
 Linkedin - linkedin.com/in/shubham-kendal/
